@@ -13,13 +13,13 @@ body:
     placeholder: Enter description...
 - type: markdown
   attributes:
-    label: Definition of Done (DoD)
     value: |
+        ## Defintion of Done (DoD)
         Not available yet...
 - type: markdown
   attributes:
-    label: DoD general criteria
     value: |
+        ## DoD General Criteria
         * Task has been fully implemented
         * Task has been merged into the mainline
         * All acceptance criteria were met
