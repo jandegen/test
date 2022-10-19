@@ -19,11 +19,6 @@ body:
     value: |
       - [ ] Deliverable uploaded to _Deliverables/<current_sprint>/<artifact_name>
       - [ ] ...
-- type: markdown
-  attributes:
-    value: |
-        ## Defintion of Done (DoD)
-        Not available yet...
 - type: textarea
   attributes:
     label: Defintion of Done (DoD)
