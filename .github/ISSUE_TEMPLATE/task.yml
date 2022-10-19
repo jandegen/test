@@ -2,7 +2,7 @@ name: Task
 description: General tasks (No features, bugs)
 title: '[TASK]: '
 labels: ['orga']
-assignees: ''
+assignees: ['']
 
 body:
 - type: textarea
