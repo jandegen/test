@@ -11,15 +11,15 @@ body:
     label: Description
     description: What has to be done?
     placeholder: Enter description...
- - type: markdown
-   attributes:
+- type: markdown
+  attributes:
     label: Definition of Done (DoD)
-    value: |
+     value: |
         Not available yet...
- - type: markdown
-   attributes:
-      label: DoD general criteria
-      value: |
+- type: markdown
+  attributes:
+    label: DoD general criteria
+    value: |
         * Task has been fully implemented
         * Task has been merged into the mainline
         * All acceptance criteria were met
