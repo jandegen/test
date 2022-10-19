@@ -16,7 +16,7 @@ body:
   attributes:
     label: Acceptence Criteria
     description: What are the acceptance criteria?
-    placeholder: |
+    value: |
       - [ ] Deliverable uploaded to _Deliverables/<current_sprint>/<artifact_name>
       - [ ] ...
 - type: markdown
@@ -24,10 +24,15 @@ body:
     value: |
         ## Defintion of Done (DoD)
         Not available yet...
-- type: markdown
+- type: textarea
   attributes:
+    label: Defintion of Done (DoD)
     value: |
-        ## DoD General Criteria
+        Not available yet...
+- type: textarea
+  attributes:
+    label: DoD General Criteria
+    value: |
         * Task has been fully implemented
         * Task has been merged into the mainline
         * All acceptance criteria were met
