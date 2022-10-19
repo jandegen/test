@@ -11,6 +11,14 @@ body:
     label: Description
     description: What has to be done?
     placeholder: Enter description...
+- type: textarea
+  id: acceptance-criteria
+  attributes:
+    label: Acceptence Criteria
+    description: What are the acceptance criteria?
+    placeholder: |
+      - [ ] Deliverable uploaded to _Deliverables/<current_sprint>/<artifact_name>
+      - [ ] ...
 - type: markdown
   attributes:
     value: |
