@@ -1,0 +1,34 @@
+---
+name: Task
+about: General tasks (No features, bugs)
+title: ''
+labels: ['orga']
+assignees: ''
+
+body:
+- type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What has to be done?
+      placeholder: Enter description...
+ - type: markdown
+    attributes:
+      label: Definition of Done (DoD)
+      value: |
+        Not available yet...
+ - type: markdown
+    attributes:
+      label: DoD general criteria
+      value: |
+        * Task has been fully implemented
+        * Task has been merged into the mainline
+        * All acceptance criteria were met
+        * Product owner approved features
+        * All tests are passing
+        * Developers agreed to release
+---
+## Acceptance criteria
+- [ ]  Criterion 1
+- [ ]  Criterion 2
+- [ ]  ...
