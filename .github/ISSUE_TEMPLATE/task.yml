@@ -1,6 +1,6 @@
 name: Task
-about: General tasks (No features, bugs)
-title: ''
+description: General tasks (No features, bugs)
+title: '[TASK]: '
 labels: ['orga']
 assignees: ''
 
